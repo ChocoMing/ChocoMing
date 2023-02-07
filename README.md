@@ -1,5 +1,3 @@
-<h1 align="center">我是天竺鼠!!</h1>
-<p align="center"> 一隻竹鼠???? </p>
 <p align="center">
     <br />
     <a href="https://www.youtube.com/channel/UCvXzcfB_HApALcHIzVrc3rA">
